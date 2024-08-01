@@ -9,3 +9,7 @@ DCT（离散余弦变换）、DWT（离散小波变换）算法。该系统参�
 秘密信息提取，点击“提取”按钮之后，根据弹窗提示，选择隐秘信息需要保存的位置
 
 效果如下：
+![image](https://github.com/HEUer-Way/information-steganography-extraction-system/blob/master/images/LSB%E6%96%87%E6%9C%AC%E5%8A%A0%E5%AF%86%E4%B8%8E%E6%8F%90%E5%8F%96.png)
+![image](https://github.com/HEUer-Way/information-steganography-extraction-system/blob/master/images/LSB%E5%9B%BE%E5%83%8F%E5%8A%A0%E5%AF%86%E4%B8%8E%E6%8F%90%E5%8F%96.png)
+![image](https://github.com/HEUer-Way/information-steganography-extraction-system/blob/master/images/DWT%E5%9B%BE%E5%83%8F%E5%8A%A0%E5%AF%86%E4%B8%8E%E6%8F%90%E5%8F%96.png)
+![image](https://github.com/HEUer-Way/information-steganography-extraction-system/blob/master/images/DCT%E5%9B%BE%E5%83%8F%E5%8A%A0%E5%AF%86%E4%B8%8E%E6%8F%90%E5%8F%96.png)
